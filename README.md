@@ -1,7 +1,7 @@
 # RapidTail - React Companion
 
 <p align="center">
-  <img src="https://your-image-link.com" alt="RapidTail Logo">
+  <img src="https://res.cloudinary.com/atharvapanegai/image/upload/v1698086691/Untitled_design_13_inlwa2.png" alt="RapidTail Logo">
 </p>
 
 RapidTail - React Companion is an indispensable VSCode extension tailored for React developers who harness the power of Tailwind CSS. Streamline your development process and supercharge your productivity with this comprehensive collection of React and Tailwind CSS code snippets.

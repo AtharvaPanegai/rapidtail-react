@@ -1,9 +1,4 @@
 {
-  "HTML Button": {
-    "prefix": "htmlbutton",
-    "body": ["<button type=\"button\">$1</button>"],
-    "description": "HTML Button"
-  },
   "Alert Box": {
     "prefix": "alertbox",
     "body": [

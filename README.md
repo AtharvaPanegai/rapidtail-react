@@ -25,12 +25,13 @@ RapidTail - React Companion is an indispensable VSCode extension tailored for Re
 ## Usage
 
 1. Open a JavaScript or JSX file in your React project.
-2. Start typing the snippet prefix (e.g., `rt-component` for a React component snippet).
+2. Start typing the snippet prefix (e.g., `alert-box` for a AlertBox Component).
 3. Use the IntelliSense feature to select and insert the snippet.
 4. Customize the snippet according to your project requirements.
 
 ## Snippet Examples
 
+- `rt-comp`: Inserts React Component Snippet.
 - `alertbox`: Create Alert Box.
 - `erroralertbox`: Inserts Error Alert Box.
 - `badge`: Inserts Badge.

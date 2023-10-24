@@ -1259,5 +1259,24 @@
       ],
       "description": "Header with Navigation and Responsive Menu"
     }
-  } 
+  },
+  {
+    "Create a React Component": {
+      "prefix": "rt-comp",
+      "body": [
+        "import React from 'react';",
+        "",
+        "const $1 = () => {",
+        "  return (",
+        "    <div>$1</div>",
+        "  );",
+        "};",
+        "",
+        "export default $1;$0"
+      ],
+      "description": "Create a React Component"
+    }
+  }
+  
+  
 }

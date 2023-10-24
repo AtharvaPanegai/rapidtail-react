@@ -2,7 +2,7 @@
   "name": "rapidtail-react",
   "displayName": "RapidTail - React Companion",
   "description": "RapidTail - React Companion is the must-have tool for React developers using Tailwind CSS. Supercharge your development workflow with a curated collection of powerful snippets that help you build stunning React applications quickly and efficiently. Simplify your styling process and accelerate your development journey with this indispensable extension designed to boost your productivity.",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "icon": "/images/logo.png",
   "publisher": "AtharvaPanegai",
   "engines": {
